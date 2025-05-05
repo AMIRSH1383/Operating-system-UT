@@ -1,0 +1,1 @@
+extern char system_call_titles[30][30];

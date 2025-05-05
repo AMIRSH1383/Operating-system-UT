@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "user.h": "c",
+        "cstdio": "c",
+        "defs.h": "c",
+        "spinlock.h": "c",
+        "stat.h": "c",
+        "fcntl.h": "c",
+        "reentrantlock.h": "c",
+        "mmu.h": "c",
+        "proc.h": "c",
+        "sleeplock.h": "c"
+    }
+}
